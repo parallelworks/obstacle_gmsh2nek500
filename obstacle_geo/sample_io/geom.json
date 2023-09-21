@@ -1,0 +1,25 @@
+{
+    "geometry": {
+        "h": 0.8 ,
+        "R_wx_h":0.25,
+        "R_wz_h":0.25,
+        "R_H_h": 10,
+        "R_W_h": 6,
+        "R_Lin_h": 11,
+        "R_Lout_h": 8
+    },
+    "matrix": {
+        "I": 1,
+        "J": 1,
+        "R_L_h": 2,
+        "h_mult_list": [1]
+    },
+    "mesh": {
+        "dmin":0.05,
+        "domax":0.25,
+        "dxmax":0.75,
+        "dymax":0.4,
+        "dzmax":0.5,
+        "r": 1.75
+    }
+}

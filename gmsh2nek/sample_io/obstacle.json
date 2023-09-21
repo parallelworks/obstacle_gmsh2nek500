@@ -1,0 +1,9 @@
+{
+    "surfaces": {
+        "wall": {"bc": "W", "sidesets": [3, 7]},
+        "inlet": {"bc": "v", "sidesets": 1},
+        "outlet": {"bc": "O", "sidesets": 2},
+        "moving_wall": {"bc": "v", "sidesets": [4]},
+        "perz": {"bc": "P", "sidesets": [5, 6],"vector": [0.0, 0.0, 4.800000000000001]}
+    }
+}
